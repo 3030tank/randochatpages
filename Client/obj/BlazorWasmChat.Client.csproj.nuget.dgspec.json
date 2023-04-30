@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\repos\\BlazorWasmChat\\Client\\BlazorWasmChat.Client.csproj": {}
+    "C:\\source\\repos\\RandoChat\\Client\\BlazorWasmChat.Client.csproj": {}
   },
   "projects": {
-    "C:\\source\\repos\\BlazorWasmChat\\Client\\BlazorWasmChat.Client.csproj": {
+    "C:\\source\\repos\\RandoChat\\Client\\BlazorWasmChat.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\BlazorWasmChat\\Client\\BlazorWasmChat.Client.csproj",
+        "projectUniqueName": "C:\\source\\repos\\RandoChat\\Client\\BlazorWasmChat.Client.csproj",
         "projectName": "BlazorWasmChat.Client",
-        "projectPath": "C:\\source\\repos\\BlazorWasmChat\\Client\\BlazorWasmChat.Client.csproj",
+        "projectPath": "C:\\source\\repos\\RandoChat\\Client\\BlazorWasmChat.Client.csproj",
         "packagesPath": "C:\\Users\\3030t\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\BlazorWasmChat\\Client\\obj\\",
+        "outputPath": "C:\\source\\repos\\RandoChat\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,14 +27,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/akYX7dDPxHmgm9CRbyflwRkG3u89zznPOnjEPvFjtgvpzeA96d/api": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\source\\repos\\BlazorWasmChat\\Shared\\BlazorWasmChat.Shared.csproj": {
-                "projectPath": "C:\\source\\repos\\BlazorWasmChat\\Shared\\BlazorWasmChat.Shared.csproj"
+              "C:\\source\\repos\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj": {
+                "projectPath": "C:\\source\\repos\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj"
               }
             }
           }
@@ -49,9 +50,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
@@ -74,12 +83,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[7.0.5, 7.0.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -88,14 +103,14 @@
         }
       }
     },
-    "C:\\source\\repos\\BlazorWasmChat\\Shared\\BlazorWasmChat.Shared.csproj": {
+    "C:\\source\\repos\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\BlazorWasmChat\\Shared\\BlazorWasmChat.Shared.csproj",
+        "projectUniqueName": "C:\\source\\repos\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj",
         "projectName": "BlazorWasmChat.Shared",
-        "projectPath": "C:\\source\\repos\\BlazorWasmChat\\Shared\\BlazorWasmChat.Shared.csproj",
+        "projectPath": "C:\\source\\repos\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj",
         "packagesPath": "C:\\Users\\3030t\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\BlazorWasmChat\\Shared\\obj\\",
+        "outputPath": "C:\\source\\repos\\RandoChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,7 +126,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/akYX7dDPxHmgm9CRbyflwRkG3u89zznPOnjEPvFjtgvpzeA96d/api": {}
         },
         "frameworks": {
           "net7.0": {
@@ -144,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

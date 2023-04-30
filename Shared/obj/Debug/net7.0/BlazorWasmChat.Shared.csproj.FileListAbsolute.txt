@@ -10,3 +10,15 @@ C:\source\repos\BlazorWasmChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.dll
 C:\source\repos\BlazorWasmChat\Shared\obj\Debug\net7.0\refint\BlazorWasmChat.Shared.dll
 C:\source\repos\BlazorWasmChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.pdb
 C:\source\repos\BlazorWasmChat\Shared\obj\Debug\net7.0\ref\BlazorWasmChat.Shared.dll
+C:\source\repos\RandoChat\Shared\bin\Debug\net7.0\BlazorWasmChat.Shared.deps.json
+C:\source\repos\RandoChat\Shared\bin\Debug\net7.0\BlazorWasmChat.Shared.dll
+C:\source\repos\RandoChat\Shared\bin\Debug\net7.0\BlazorWasmChat.Shared.pdb
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.csproj.AssemblyReference.cache
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.AssemblyInfoInputs.cache
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.AssemblyInfo.cs
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.csproj.CoreCompileInputs.cache
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.dll
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\refint\BlazorWasmChat.Shared.dll
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\BlazorWasmChat.Shared.pdb
+C:\source\repos\RandoChat\Shared\obj\Debug\net7.0\ref\BlazorWasmChat.Shared.dll

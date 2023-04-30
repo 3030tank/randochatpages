@@ -4,6 +4,8 @@
 @implements IAsyncDisposable
 
 
+<AuthorizeView>
+    <Authorized>
 <PageTitle>Rando</PageTitle>
 <h3>Chat</h3>
 
@@ -22,6 +24,11 @@
         <button class="btn btn-primary form-group-append" @onclick="Send" disabled="@(!IsConnected)">Send</button>
     </div>
 }
+</Authorized>
+<NotAuthorized>
+    Sorry, you must be logged in to view this area.
+    </NotAuthorized>
+    </AuthorizeView>
 
 @code {
     private HubConnection? hubConnection;
