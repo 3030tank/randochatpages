@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1D00A/la1t7KAPqDPEJzqm/TbB5ktaGbTyDeLfiumQk=",
+  "Hash": "YfNkd7+o4TMsbvKbO+HfCvGipxROaW2dMunV9jeWXT4=",
   "Source": "BlazorWasmChat.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -187,23 +187,6 @@
       "OriginalItemSpec": "C:\\Users\\3030t\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "BlazorWasmChat.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\3030t\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "BlazorWasmChat.Client",
       "SourceType": "Computed",
@@ -253,6 +236,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\3030t\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "BlazorWasmChat.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\3030t\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\source\\repos\\RandoChat\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -7361,6 +7361,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorWasmChat.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorWasmChat.Client",
       "SourceType": "Discovered",
@@ -7461,23 +7478,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorWasmChat.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\source\\repos\\RandoChat\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

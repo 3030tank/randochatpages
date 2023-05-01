@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\blazorchat</_PublishTargetUrl>
+    <History>True|2023-05-01T18:24:27.3251789Z;True|2023-05-01T11:22:14.6895427-04:00;True|2023-04-30T20:19:08.8224109-04:00;True|2023-04-30T20:00:10.4258778-04:00;True|2023-04-30T19:35:16.0292275-04:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=lallah.db.elephantsql.com%3bDatabase=iatjqsaw%3bPort=5432%3bUserid=iatjqsaw%3bPassword=ZQ3la8Xhd7KGd8SAnLLzWi0Achz1Ye5b%3btimeout=1000%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
