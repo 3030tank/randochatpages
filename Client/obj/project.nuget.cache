@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDSu5ookLrvKtN16YD+5pfdJeKEY6IJdNlrmX1pQ818esXf6EawO5DsDG16/rPzLv1x0cgD9zjVedlDBugqpuQ==",
+  "dgSpecHash": "i+OYZXi73wjTKtf0vcQqTSSEyrOaoj/zoDS88Srwv0Em60gN9Zj5++oMWSPKxQdoAqJ4UXubsu+tR5xebTuiTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3030t\\source\\repos\\3030tank\\RandoChat\\Client\\BlazorWasmChat.Client.csproj",
+  "projectFilePath": "C:\\Users\\3030t\\Source\\Repos\\3030tank\\RandoChat\\Client\\BlazorWasmChat.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3030t\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\3030t\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dT695wWPz6QTGbHapBcb58gsGT6EkxNqh2KIv9z3yL1pW2NthWTfAdt6tUg0NSCRPWYwMQ3DJHgy3M4KDDfeow==",
+  "dgSpecHash": "cVjfCSjypjx/1q2WeKQiF2H+FmhUAI8Ak+X41z0z+9lTSCDlzwaAYtTh5QmwosF/iRopmrS9F1s6uCEXhrQKwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3030t\\source\\repos\\3030tank\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj",
+  "projectFilePath": "C:\\Users\\3030t\\Source\\Repos\\3030tank\\RandoChat\\Shared\\BlazorWasmChat.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
