@@ -1728,10 +1728,6 @@ C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-g
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\CKw+QxoH.gz
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\kS9oQDIn.gz
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\4F1HWlrT.gz
-C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\kBANSO97.gz
-C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\lzxBlCVo.gz
-C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\JLleLasW.gz
-C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\+aNj2OKr.gz
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\NRe6uZgn.gz
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\blazor.boot.json
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\staticwebassets\msbuild.BlazorWasmChat.Client.Microsoft.AspNetCore.StaticWebAssets.props
@@ -1750,3 +1746,7 @@ C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\BlazorW
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\refint\BlazorWasmChat.Client.dll
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\BlazorWasmChat.Client.pdb
 C:\Users\3030t\source\repos\3030tank\RandoChat\Client\obj\Release\net7.0\ref\BlazorWasmChat.Client.dll
+C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\BVbUfeXb.gz
+C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\D+2iT7rP.gz
+C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\RcL42DIZ.gz
+C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client\obj\Release\net7.0\build-gz\gfB7DhgZ.gz
