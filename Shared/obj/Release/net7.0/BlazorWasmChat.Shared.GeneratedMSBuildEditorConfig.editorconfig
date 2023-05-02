@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazorWasmChat.Shared
-build_property.ProjectDir = C:\source\repos\RandoChat\Shared\
+build_property.ProjectDir = C:\Users\3030t\source\repos\3030tank\RandoChat\Shared\

@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorWasmChat.Client
 build_property.RootNamespace = BlazorWasmChat.Client
-build_property.ProjectDir = C:\source\repos\RandoChat\Client\
+build_property.ProjectDir = C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\source\repos\RandoChat\Client
+build_property.MSBuildProjectDirectory = C:\Users\3030t\Source\Repos\3030tank\RandoChat\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/source/repos/RandoChat/Client/App.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/Counter.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/FetchData.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/Index.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/Login.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/Logout.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/Logout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Pages/Register.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Shared/LoginDisplay.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Shared/SurveyPrompt.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/_Imports.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/repos/RandoChat/Client/Shared/MainLayout.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ewlg0soifa
 
-[C:/source/repos/RandoChat/Client/Shared/NavMenu.razor]
+[C:/Users/3030t/Source/Repos/3030tank/RandoChat/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-b16a32wh06
